@@ -1,0 +1,23 @@
+
+table.MMC-Table {}
+
+/* header row */
+td.MMC-Title {}
+td.MMC-PreviousLink{}
+td.MMC-NextLink{}
+
+/* day names row */
+tr.MMC-Days td {}
+
+/* date cells */
+tr.MMCevenRow{}
+.MMC-Cell{}
+	.MMC-Cell span{}
+	a.MMC-First {}
+	a.MMC-Last {}
+	a.MMC-Event{}
+.MMC-EvenCol{}
+.MMC-Outside{}
+.MMC-EvenCol{}
+.MMC-CurrentDay{}
+
