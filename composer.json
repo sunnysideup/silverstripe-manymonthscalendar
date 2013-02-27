@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/manymonthscalendar",
+	"name": "sunnysideup/manymonthscalendar",
 	"type": "silverstripe-module",
 	"description": "allows you to display events over many months",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
