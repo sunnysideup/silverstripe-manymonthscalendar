@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/manymonthscalendar/trunk">
+  <namespace name="">
+    <class name="ManyMonthsCalendar" src="code/ManyMonthsCalendar.php" xml="classes/ManyMonthsCalendar.xml"/>
+  </namespace>
+</index>

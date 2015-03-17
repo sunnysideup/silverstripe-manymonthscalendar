@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/manymonthscalendar/trunk">
+    <file name="_config.php" size="916" time="2015-03-14T10:23:09+13:00" unixtime="1426281789" sha1="b6f2ff3700ac63833e77b895f40d39afaaaf7bb8" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <file name="ManyMonthsCalendar.php" size="8818" time="2015-03-14T10:23:09+13:00" unixtime="1426281789" sha1="e8deb2533562418a5242861f9b16d3427e4b0a71" xml="tokens/code/ManyMonthsCalendar.php.xml"/>
+    </dir>
+  </dir>
+</source>
